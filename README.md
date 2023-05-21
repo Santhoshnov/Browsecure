@@ -13,3 +13,11 @@ Reporting of malicious site:
 ![output3](https://github.com/Santhoshnov/Browsecure/assets/108118100/91a9cf2b-dd27-410d-8c62-952cad7901fd)
 
 ![output4](https://github.com/Santhoshnov/Browsecure/assets/108118100/46bae044-c3cd-4142-bf46-ee6c8315c9a6)
+
+##Developers
+* [Santhosh S]
+(https://github.com/Santhoshnov/)
+* [Reshma S]
+(https://github.com/reshmasathyavedu)
+* [Roshini S]
+(https://github.com/Roshini2601)
