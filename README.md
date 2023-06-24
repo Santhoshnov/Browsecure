@@ -1,6 +1,7 @@
 # Browsecure 
 ## Browser extension for secure browsing.
 
+A browser extension that helps keep you safe online It can identify fake websites that try to steal your information and make sure you're visiting real and trustworthy sites. You can also report any suspicious websites you come across, which helps make the internet safer for everyone.
 
 
 ![output1](https://github.com/Santhoshnov/Browsecure/assets/108118100/6343fe3c-92a0-4ac5-bc65-8482c61b1f59)
